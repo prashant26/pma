@@ -1,0 +1,6 @@
+We are trying to understand following git concepts:-
+
+1) How to create new local branch from current master branch
+2) Make chnages. commit to local branch.
+3) publish branch.
+4) Create new pull request.
